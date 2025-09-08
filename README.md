@@ -13,6 +13,9 @@ An in-depth paper reading & reproduction hub for Vision-Language Models (VLMs)
 ## 📚 Papers Decoded & Reproduced (continuously updated)
 | Paper | Venue | Reading | Reproduction |
 |---|---|---|---|
+| DeepSeek-VL Technical Report | 2024 | ✅ Available | — |
+| Intern-VL3 Technical Report | 2025 | ✅ Available | — |
+| Intern-VL3.5 Technical Report | 2025 | ✅ Available | — |
 | Qwen2.5-VL Technical Report | 2025 | ✅ Available | — |
 | ... | ... | ... | ... |
 
