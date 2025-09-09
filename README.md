@@ -17,8 +17,8 @@ An in-depth paper reading & reproduction hub for Vision-Language Models (VLMs)
 | Intern-VL3 Technical Report | 2025 | ✅ Available | — |
 | Intern-VL3.5 Technical Report | 2025 | ✅ Available | — |
 | Qwen2.5-VL Technical Report | 2025 | ✅ Available | — |
-| PPO | 2025 | ✅ Available | — |
-| GRPO | 2025 | ✅ Available | — |
+| PPO | 2017 | ✅ Available | — |
+| GRPO | 2024 | ✅ Available | — |
 | ... | ... | ... | ... |
 
 Want to jump the queue? Open an [Issue](https://github.com/YOUR_NAME/VLM_Proj/issues) and we'll add it to the TODO list!
