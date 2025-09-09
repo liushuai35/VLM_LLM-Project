@@ -13,10 +13,14 @@ An in-depth paper reading & reproduction hub for Vision-Language Models (VLMs)
 ## 📚 Papers Decoded & Reproduced (continuously updated)
 | Paper | Venue | Reading | Reproduction |
 |---|---|---|---|
-| DeepSeek-VL Technical Report | 2024 | ✅ Available | — |
-| Intern-VL3 Technical Report | 2025 | ✅ Available | — |
-| Intern-VL3.5 Technical Report | 2025 | ✅ Available | — |
-| Qwen2.5-VL Technical Report | 2025 | ✅ Available | — |
+| DeepSeek-VL | 2024 | ✅ Available | — |
+| Intern-VL3 | 2025 | ✅ Available | — |
+| Intern-VL3.5 | 2025 | ✅ Available | — |
+| Qwen2.5-VL | 2025 | ✅ Available | — |
+| Qwen2-VL | 2024 |  | — |
+| Glm4.5-V | 2025 |  | — |
+| llama-nemotron | 2025 |  | — |
+| minicpm-v | 2025 |  | — |
 | PPO | 2017 | ✅ Available | — |
 | GRPO | 2024 | ✅ Available | — |
 | ... | ... | ... | ... |
