@@ -1,6 +1,6 @@
-# VLM_Proj
+# VLM_LLM-Project
 
-An in-depth paper reading & reproduction hub for Vision-Language Models (VLMs)
+An in-depth paper reading & reproduction hub for Vision-Language Models (VLMs) and Large-Language Models (LLMs)
 
 ---
 
