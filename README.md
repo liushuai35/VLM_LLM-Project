@@ -19,6 +19,7 @@ An in-depth paper reading & reproduction hub for Vision-Language Models (VLMs) a
 | Intern-VL3.5 | 2025 | ✅ Available | — |
 | Qwen2.5-VL | 2025 | ✅ Available | — |
 | Qwen2-VL | 2024 | ✅ Available | — |
+| GME | 2025 |  | — |
 | Glm4.5-V | 2025 |  | — |
 | llama-nemotron | 2025 |  | — |
 | minicpm-v | 2025 |  | — |
