@@ -15,11 +15,12 @@ An in-depth paper reading & reproduction hub for Vision-Language Models (VLMs) a
 |---|---|---|---|
 | DeepSeek-VL | 2024 | ✅ Available | — |
 | DeepSeek-V3 | 2024 | ✅ Available | — |
+| DeepSeek-R1 | 2025 |  | — |
 | Intern-VL3 | 2025 | ✅ Available | — |
 | Intern-VL3.5 | 2025 | ✅ Available | — |
 | Qwen2.5-VL | 2025 | ✅ Available | — |
 | Qwen2-VL | 2024 | ✅ Available | — |
-| GME | 2025 |  | — |
+| GME | 2025 | ✅ Available | — |
 | Glm4.5-V | 2025 |  | — |
 | llama-nemotron | 2025 |  | — |
 | minicpm-v | 2025 |  | — |
