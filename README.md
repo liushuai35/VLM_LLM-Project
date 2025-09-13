@@ -14,6 +14,8 @@ An in-depth paper reading & reproduction hub for Vision-Language Models (VLMs) a
 | Paper | Venue | Motivation | Method | Reading | Reproduction |
 |---|---|---|---|---|---|
 | DeepSeek-VL | 2024 |  |  | ✅ Available | — |
+| DeepSeek-MoE | 2024 |  |  |  | — |
+| DeepSeek-V2 | 2024 |  |  |  | — |
 | DeepSeek-V3 | 2024 |  |  | ✅ Available | — |
 | DeepSeek-R1 | 2025 |  |  | ✅ Available | — |
 | Intern-VL3 | 2025 |  |  | ✅ Available | — |
@@ -24,9 +26,10 @@ An in-depth paper reading & reproduction hub for Vision-Language Models (VLMs) a
 | Glm4.5-V | 2025 |  |  | ✅ Available | — |
 | llama-nemotron | 2025 |  |  |  | — |
 | minicpm-v | 2025 |  |  |  | — |
+| TRPO | 2017 |  |  |  | — |
 | PPO | 2017 |  |  | ✅ Available | — |
 | GRPO | 2024 |  |  | ✅ Available | — |
-| GSPO | 2024 |  |  |  | — |
+| GSPO | 2024 |  |  | ✅ Available | — |
 | ... | ... |  |  | ... | ... |
 
 Want to jump the queue? Open an [Issue](https://github.com/YOUR_NAME/VLM_Proj/issues) and we'll add it to the TODO list!
