@@ -13,6 +13,13 @@ An in-depth paper reading & reproduction hub for Vision-Language Models (VLMs) a
 ## 📚 Papers Decoded & Reproduced (continuously updated)
 | Paper | Venue | Reading | Reproduction |
 |---|---|---|---|
+| qwen2 | 2024 |  | — |
+| qwem2.5 | 2025 |  | — |
+| qwen3 | 2025 |  | — |
+| glm4 | 2024 |  | — |
+| glm4.5 | 2025 |  | — |
+| kimi1.5 | 2024 |  | — |
+| kimik2 | 2025 |  | — |
 | DeepSeek-VL | 2024 | ✅ Available | — |
 | DeepSeek-MoE | 2024 | ✅ Available | — |
 | DeepSeek-V2 | 2024 | ✅ Available | — |
@@ -24,8 +31,6 @@ An in-depth paper reading & reproduction hub for Vision-Language Models (VLMs) a
 | Qwen2-VL | 2024 | ✅ Available | — |
 | GME | 2025 | ✅ Available | — |
 | Glm4.5-V | 2025 | ✅ Available | — |
-| llama-nemotron | 2025 |  | — |
-| minicpm-v | 2025 |  | — |
 | Bellman Equation | - |  | — |
 | GAE | 2016 |  | — |
 | TRPO | 2017 |  | — |
