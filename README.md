@@ -26,6 +26,8 @@ An in-depth paper reading & reproduction hub for Vision-Language Models (VLMs) a
 | Glm4.5-V | 2025 | ✅ Available | — |
 | llama-nemotron | 2025 |  | — |
 | minicpm-v | 2025 |  | — |
+| Bellman Equation | - |  | — |
+| GAE | 2016 |  | — |
 | TRPO | 2017 |  | — |
 | PPO | 2017 | ✅ Available | — |
 | GRPO | 2024 | ✅ Available | — |
