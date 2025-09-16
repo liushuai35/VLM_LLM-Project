@@ -34,7 +34,7 @@ An in-depth paper reading & reproduction hub for Vision-Language Models (VLMs) a
 | GSPO | 2024 | ✅ Available | — |
 | ... | ... | ... | ... |
 
-Want to jump the queue? Open an [Issue](https://github.com/YOUR_NAME/VLM_Proj/issues) and we'll add it to the TODO list!
+Want to jump the queue? Open an [Issue](https://github.com/liushuai35/VLM_Proj/issues) and we'll add it to the TODO list!
 
 ---
 
