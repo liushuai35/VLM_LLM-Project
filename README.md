@@ -19,7 +19,7 @@ An in-depth paper reading & reproduction hub for Vision-Language Models (VLMs) a
 | glm4 | 2024 | ✅ Available | — |
 | glm4.5 | 2025 |  | — |
 | kimi1.5 | 2024 | ✅ Available | — |
-| kimik2 | 2025 |  | — |
+| kimik2 | 2025 | ✅ Available | — |
 | DeepSeek-VL | 2024 | ✅ Available | — |
 | DeepSeek-MoE | 2024 | ✅ Available | — |
 | DeepSeek-V2 | 2024 | ✅ Available | — |
