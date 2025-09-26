@@ -13,6 +13,18 @@ An in-depth paper reading & reproduction hub for Vision-Language Models (VLMs) a
 ## 📚 Papers Decoded & Reproduced (continuously updated)
 | Paper | Venue | Reading | Reproduction |
 |---|---|---|---|
+| BBPE | 2019 |  | — |
+| RoPE | 2023 |  | — |
+| YARN | 2024 |  | — |
+| ABF | 2023 |  | — |
+| QK-Norm | 2020 |  | — |
+| RMS-Norm | 2019 |  | — |
+| Pre-RMSNorm | 2023 |  | — |
+| QKV-Bias | 2023 |  | — |
+| SwiGLU | 2020 |  | — |
+| Llama2 | 2024 |  | — |
+| Llama3 | 2024 |  | — |
+| Llama4 | 2025 |  | — |
 | qwen2 | 2024 |  | — |
 | qwem2.5 | 2025 |  | — |
 | qwen3 | 2025 |  | — |
@@ -37,7 +49,7 @@ An in-depth paper reading & reproduction hub for Vision-Language Models (VLMs) a
 | PPO | 2017 | ✅ Available | — |
 | GRPO | 2024 | ✅ Available | — |
 | GSPO | 2024 | ✅ Available | — |
-| DAPO | 2025 | - | — |
+| DAPO | 2025 | ✅ Available | — |
 | ... | ... | ... | ... |
 
 Want to jump the queue? Open an [Issue](https://github.com/liushuai35/VLM_Proj/issues) and we'll add it to the TODO list!
