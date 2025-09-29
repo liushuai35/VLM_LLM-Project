@@ -50,9 +50,9 @@ An in-depth paper reading & reproduction hub for Vision-Language Models (VLMs) a
 | GRPO | 2024 | ✅ Available | — |
 | GSPO | 2024 | ✅ Available | — |
 | DAPO | 2025 | ✅ Available | — |
-| DAO | 2023 | ✅ Available | — |
-| MPO(DPO+PPO) | 2025 |  | — |
-| MPO(DPO+LM loss) | 2025 |  | — |
+| DPO | 2023 | ✅ Available | — |
+| MPO(DPO+PPO) | 2025 | ✅ Available | — |
+| MPO(DPO+LM+BCO loss) | 2025 |  | — |
 | ... | ... | ... | ... |
 
 Want to jump the queue? Open an [Issue](https://github.com/liushuai35/VLM_Proj/issues) and we'll add it to the TODO list!
