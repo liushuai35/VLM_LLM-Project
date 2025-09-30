@@ -14,6 +14,8 @@ An in-depth paper reading & reproduction hub for Vision-Language Models (VLMs) a
 | Paper | Venue | Reading | Reproduction |
 |---|---|---|---|
 | BBPE | 2019 |  | — |
+| NSA | 2024 | | — |
+| MLA | 2024 | | — |
 | RoPE | 2023 |  | — |
 | YARN | 2024 |  | — |
 | ABF | 2023 |  | — |
