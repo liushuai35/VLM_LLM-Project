@@ -36,6 +36,7 @@ An in-depth paper reading & reproduction hub for Vision-Language Models (VLMs) a
 | DeepSeek-MoE | 2024 | ✅ Available | — |
 | DeepSeek-V2 | 2024 | ✅ Available | — |
 | DeepSeek-V3 | 2024 | ✅ Available | — |
+| DeepSeek-V3.2 | 2025 | ✅ Available | — |
 | DeepSeek-R1 | 2025 | ✅ Available | — |
 | Intern-VL3 | 2025 | ✅ Available | — |
 | Intern-VL3.5 | 2025 | ✅ Available | — |
