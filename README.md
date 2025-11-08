@@ -50,9 +50,9 @@ An in-depth paper reading & reproduction hub for Vision-Language Models (VLMs) a
 | GAE | 2016 | ✅ Available | — |
 | TRPO | 2017 |  | — |
 | PPO | 2017 | ✅ Available | — |
-| PPO secret | 2025 | ✅ Available | — |
-| Reward secret | 2025 | ✅ Available | — |
-| LRM&RL Overview | 2025 |  | — |
+| PPO secret | 2025 | pending | — |
+| Reward secret | 2025 | pending | — |
+| LRM&RL Overview | 2025 | pending | — |
 | GRPO | 2024 | ✅ Available | — |
 | GSPO | 2024 | ✅ Available | — |
 | DAPO | 2025 | ✅ Available | — |
